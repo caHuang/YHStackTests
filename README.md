@@ -1,5 +1,7 @@
-# YHStackTests
+# Overview
 
-我的第一隻iOS測試程式
+This is my first iOS Test case
 
-參考:[OneV's Den的Blog文章](http://onevcat.com/2014/02/ios-test-with-kiwi/)
+# Reference
+
+* [onevcat/VVStack](https://github.com/onevcat/VVStack/tree/kiwi-start)
