@@ -13,6 +13,7 @@
 		F03947261A725763009C03AA /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F03947251A725763009C03AA /* Images.xcassets */; };
 		F03947351A725763009C03AA /* YHStackTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F03947341A725763009C03AA /* YHStackTests.m */; };
 		F03947431A7259CD009C03AA /* YHStack.m in Sources */ = {isa = PBXBuildFile; fileRef = F03947421A7259CD009C03AA /* YHStack.m */; };
+		F0AD713C1A823367005B996E /* YHStackSpec.m in Sources */ = {isa = PBXBuildFile; fileRef = F0AD713B1A823367005B996E /* YHStackSpec.m */; };
 		F0DF081B1A79E9C70063A1DD /* SimpleStringSpec.m in Sources */ = {isa = PBXBuildFile; fileRef = F0DF081A1A79E9C70063A1DD /* SimpleStringSpec.m */; };
 /* End PBXBuildFile section */
 
@@ -41,6 +42,7 @@
 		F03947341A725763009C03AA /* YHStackTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YHStackTests.m; sourceTree = "<group>"; };
 		F03947411A7259CD009C03AA /* YHStack.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YHStack.h; sourceTree = "<group>"; };
 		F03947421A7259CD009C03AA /* YHStack.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YHStack.m; sourceTree = "<group>"; };
+		F0AD713B1A823367005B996E /* YHStackSpec.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YHStackSpec.m; sourceTree = "<group>"; };
 		F0DF081A1A79E9C70063A1DD /* SimpleStringSpec.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SimpleStringSpec.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -126,6 +128,7 @@
 			isa = PBXGroup;
 			children = (
 				F03947341A725763009C03AA /* YHStackTests.m */,
+				F0AD713B1A823367005B996E /* YHStackSpec.m */,
 				F0DF081A1A79E9C70063A1DD /* SimpleStringSpec.m */,
 				F03947321A725763009C03AA /* Supporting Files */,
 			);
@@ -285,6 +288,7 @@
 			files = (
 				F03947351A725763009C03AA /* YHStackTests.m in Sources */,
 				F0DF081B1A79E9C70063A1DD /* SimpleStringSpec.m in Sources */,
+				F0AD713C1A823367005B996E /* YHStackSpec.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

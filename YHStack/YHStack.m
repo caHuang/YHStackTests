@@ -42,4 +42,8 @@
   return result;
 }
 
+- (NSUInteger)count {
+  return self.numbers.count;
+}
+
 @end
